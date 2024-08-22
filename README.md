@@ -1,5 +1,5 @@
 # GalaxyZooChallenge
-This is my attempt at Galaxy Zoo - The Galaxy Challenge on Kaggle by training CNN with PyTorch.
+This is my attempt at Galaxy Zoo - The Galaxy Challenge on Kaggle by training a CNN with PyTorch.
 
 My best scores are as follows:
 * Individual model score: 0.07972
